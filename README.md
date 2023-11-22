@@ -2,4 +2,4 @@
 
 #chmod +x 777 *
 
-bash poisonCharlz.sh
+#bash poisonCharlz.sh
